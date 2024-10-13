@@ -1,4 +1,4 @@
-# SAP-C01-EXAM-DUMPS
+# PAS-C01-EXAM-DUMPS
 # 🌐 Mastering Amazon PAS-C01: A Step Towards a Cloud-Certified Future
 
 The cloud computing landscape is rapidly evolving, and Amazon Web Services (AWS) remains at the forefront. The **PAS-C01** certification is a valuable credential for professionals aiming to validate their skills in AWS Partner Solutions Architect. Whether you're looking to advance your career or prove your proficiency, this exam opens doors to new opportunities in cloud architecture and design. 🚀
